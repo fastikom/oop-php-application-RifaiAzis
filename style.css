@@ -1,0 +1,74 @@
+body{
+    margin-top: 30px;
+    font-size: 14px;
+    font-family: arial, verdana;  
+    background-color:#282525;
+}
+
+h1, h2, h3, h4,h5{
+    margin: auto;
+    text-align: center;
+}
+table {
+    font-family: Verdana, Arial, Helvetica, sans-serif; 
+    font-size: 9pt;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #999999;
+    border-collapse: collapse;
+    margin: 10px 0px;
+}
+table th{
+    color: #FFFFFF;
+    font-size: 7pt;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 0.5em;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #969BA5;
+    border-collapse: collapse;
+    background-color: #dc0202;
+}
+table td{
+    padding: 0.5em;
+    vertical-align: top;
+    border:1px solid #EEEEEE;
+    border-collapse: collapse;
+}
+#container{    
+    background-color: white;
+    width: 980px;
+    padding: 2px;
+    margin: auto;
+}
+#header{
+    color: white;
+    background-color: #3366ff;
+    width: 100%;
+    height: 156px;
+    margin: auto;
+}
+#menu {background-color:#dc0202;width: 100%}
+#menu a {font-weight: bold;text-decoration: none;color:#fff;padding: 4px}
+#konten{
+    padding-top: 20px;
+    width: 100%;
+    min-height: 300px;
+    margin: auto;
+}
+
+#footer{
+    background-color:#2089ce;
+    width: 100%;
+    height: 30px;
+    margin: auto;
+    color: white;
+    text-align: center;
+    font-size: 12px;
+}
+#footer a {color: #FFF;text-decoration: none;}
+.isinya{
+    padding: 10px;
+}
+
